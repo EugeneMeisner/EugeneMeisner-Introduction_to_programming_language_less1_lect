@@ -1,0 +1,15 @@
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\meysn\Documents\GeekBrains\Introduction_to_programming_languages\Less1_lection\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
